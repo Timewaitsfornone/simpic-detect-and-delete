@@ -39,10 +39,10 @@ __thi sis bold size__
 this is code `print('hello world') `
 
 
-| title1 | title2 | title3|
-|sdfdsfs|dsfsdd|fdsfds|
-|1|2|3|
-|23|234|3434|
+| 标题 1 | 标题 2 | 标题 3 |
+| ------ | ------ | ------ |
+| 内容 1 | 内容 2 | 内容 3 |
+| 内容 4 | 内容 5 | 内容 6 |
 
 
 
